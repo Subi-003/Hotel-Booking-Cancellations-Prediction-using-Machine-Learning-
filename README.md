@@ -38,5 +38,5 @@ Used compute_class_weight(class_weight='balanced') to penalise misclassification
 [Click here to view the app](https://kagu6jhjjmdegadjwustfi.streamlit.app/)
 
 ## How to Run Locally
- pip install -r requirements.txt
- streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
